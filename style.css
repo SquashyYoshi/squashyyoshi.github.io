@@ -1,0 +1,24 @@
+html{
+  background-image:url("basic-rainbw.gif");
+ 0
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 70px;
+  text-align: center;
+  font-family:inherit;
+  background-image:url("rainbow.gif");
+
+  color:black;
+}
+
+h2 {
+  background-color: black;
+  color:rgb(256,256,256);
+}
+
+p {
+  background-color: rgb(0,0,0);
+    color:white;
+}
